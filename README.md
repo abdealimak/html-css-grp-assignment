@@ -327,5 +327,4 @@ python3 -m http.server 8080
 ## 👤 Credits
 
 - **Original Game:** Space Invaders® — Tomohiro Nishikado / Taito Corporation, 1978
-- **Landing Page:** Frontend demonstration project, 2024
 - Space Invaders® is a registered trademark of Taito Corporation. This project is a non-commercial educational tribute.
