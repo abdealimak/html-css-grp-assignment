@@ -329,4 +329,4 @@ python3 -m http.server 8080
 - **Original Game:** Space Invaders® — Tomohiro Nishikado / Taito Corporation, 1978
 - Space Invaders® is a registered trademark of Taito Corporation. This project is a non-commercial educational tribute.
 
-<h4>🧑🏻‍💻Developer:<br> Abdeali Makda</h4>
+<h3>🧑🏻‍💻Developer:<br> Abdeali Makda</h3>
